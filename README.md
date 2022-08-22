@@ -1,2 +1,6 @@
-# Employee-Recruitment-Web-v2
- Employee Recruitment Web, revisions from v1
+## Employee Recruitment v2
+Employee Recruitment Information System of PT AKU, made with Bootstraps, PHP, and MySQL.
+
+This information system made by me when I'm intern at PT AKU (Arie Karya Utama).
+
+Algorithm soon.
